@@ -4,7 +4,7 @@
 ---
 
 ## 🌟 About Me
-- 🎓 Studying at *Dhaka College*
+- 🎓 Studying at *Dhaka College
 - 💻 MERN Stack Student at *Creative IT Institute – Batch MERN 2501*
 - 🌱 Currently learning *Full Stack Web Development*
 - 🔍 Interested in *React, Next.js, Node.js, Express.js, MongoDB*
