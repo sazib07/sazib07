@@ -2,9 +2,7 @@
 <h3 align="center">Web Developer (Beginner / Intermediate)</h3>
 
 ---
-<div class="my-animation mx-auto my-8">
-  <img src="/path/to/web-dev-animation.gif" alt="Web Developer Illustration" class="mx-auto" />
-</div>
+
 
 
 
