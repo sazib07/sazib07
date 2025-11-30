@@ -9,7 +9,7 @@
 ## 🌟 About Me
 - 💻 MERN Stack Student at *Creative IT Institute – Batch MERN 2501*
 - 🌱 Currently learning *Full Stack Web Development*
-- 🔍 Interested in *React, Next.js, Node.js, Express.js, MongoDB*
+- 🔍 Interested in *React, Next.js, Node.js, Express.js, MongoDB,tailwindcss*
 - 📫 Email: *sazibmd93@gmail.com*
 - Contact No: 01822419336(WhatsApp)*
 - 🔗 Facebook: [Click Here](https://www.facebook.com/share/1DofhnNLDW/)*
