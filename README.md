@@ -63,8 +63,8 @@
 
 | Year | Milestone |
 |------|-----------|
-| 2023 | Started learning Web Development |
-| 2024 | Joined Creative IT Institute (MERN Batch 2501) |
+
+| 2025 | Joined Creative IT Institute (MERN Batch 2501) |
 | 2024-25 | Building projects, solving errors, growing daily |
 | Future | Become a full-time Web Developer 🚀 |
 
