@@ -30,7 +30,7 @@
 ### 🗄 Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-001e2b?style=for-the-badge&logo=mongodb)
 
----
+--
 
 ## 📊 GitHub Stats (Dark Theme)
 
