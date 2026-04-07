@@ -35,7 +35,7 @@
 ## 📊 GitHub Stats (Dark Theme)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sazib07&show_icons=true&theme=tokyonight&cache_seconds=1" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sazib07&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sazib07&layout=compact&theme=tokyonight&cache_seconds=1" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sazib07&layout=compact&theme=tokyonight" />
 </p>
 
 --
