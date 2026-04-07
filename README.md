@@ -35,15 +35,15 @@
 ## 📊 GitHub Stats (Dark Theme)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sazib07&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sazib07&show_icons=true&theme=tokyonight&cache_seconds=1" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sazib07&theme=tokyonight" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=sazib07&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sazib07&layout=compact&theme=tokyonight" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sazib07&layout=compact&theme=tokyonight&cache_seconds=1" />
 </p>
 
 --
