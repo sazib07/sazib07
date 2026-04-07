@@ -34,17 +34,17 @@
 
 ## 📊 GitHub Stats (Dark Theme)
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sazib07&show_icons=true&theme=tokyonight" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sazib07&theme=tokyonight" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sazib07&layout=compact&theme=tokyonight" />
-</p>
+</p> -->
 
 --
 
@@ -89,5 +89,9 @@
 🧪 Experimenting with animations + optimization  
 
 --
+### 🔥 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sazib07&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 ## ✨ Thanks for visiting my profile!
