@@ -16,7 +16,7 @@
 - LinkedIn : [Click Here](https://www.linkedin.com/in/sazib-hossain-b86289310)*
 
 
-## 🛠 Tech Stack
+### 🛠 Tech Stack
 
 ### 🚀 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
