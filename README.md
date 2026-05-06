@@ -62,7 +62,7 @@
 ## 🏆 My Journey (Mini Timeline)
 
 | Year | Milestone |
-|------|---------|
+|------|--------|
 
 | 2025 | Joined Creative IT Institute (MERN Batch 2501) |
 |April 2025 | Started learning Web Development |
