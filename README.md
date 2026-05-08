@@ -1,8 +1,6 @@
 <h1 align="center">Hi👋, I'm Sazib Hossain</h1>
 <h3 align="center">Web Developer (Beginner / Intermediate)</h3>
 
-<a data-ved="0CBUQjRxqFwoTCMjF4L2XqpQDFQAAAAAdAAAAABAf" rel="noopener" target="_blank" href="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/README.md" ping="/url?sa=t&amp;source=web&amp;rct=j&amp;url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub%2Fblob%2Fmain%2FREADME.md&amp;ved=0CBUQjRxqFwoTCMjF4L2XqpQDFQAAAAAdAAAAABAf&amp;opi=89978449" class="YsLeY" role="link" tabindex="0" aria-label="Visit GitHub"><img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 512px; height: 218px; margin: 0px; width: 291px;" alt="Cool-GIFs-For-GitHub/README.md at main · Anmol-Baranwal/Cool-GIFs-For-GitHub  · GitHub" jsname="kn3ccd"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0Rxo9Tgwh-1Kb2zqxJoqgVlKubxnH-7VBjg&amp;s" class="sFlh5c FyHeAf" alt="Cool-GIFs-For-GitHub/README.md at main · Anmol-Baranwal/Cool-GIFs-For-GitHub  · GitHub" jsname="JuXqh" style="max-width: 512px; position: absolute; visibility: hidden;" data-ilt="1778260239821"><span class="UWuvyf">512 × 384</span></a>
-
 --
 
 
