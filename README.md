@@ -34,9 +34,6 @@
 
 ## 📊 GitHub Stats (Dark Theme)
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sazib07&show_icons=true&theme=tokyonight" />
-</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sazib07&theme=tokyonight" />
