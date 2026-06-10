@@ -4,8 +4,6 @@
 ---
 
 
-
-
 ## 🌟 About Me
 - 💻 MERN Stack Student at *Creative IT Institute – Batch MERN 2501*
 - 🌱 Currently learning *Full Stack Web Development*
